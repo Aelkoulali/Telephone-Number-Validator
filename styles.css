@@ -53,7 +53,8 @@ h1 {
     height: 50px;
     margin: 10px auto;
     padding: 5px;
-    font-size: 16px;
+    font-size: 17px;
+    font-weight: bold;
     border: 1px solid var(--blue);
     border-radius: 8px;
 }
@@ -75,6 +76,8 @@ h1 {
     border-radius: 15px;
     width: 300px;
     height: 550px;
+    font-size: 17px;
+    font-weight: bold;
     
 }
 
