@@ -3,7 +3,7 @@
 ### ✅ regex
 ### ✅ regex.test( )
 ### ✅ addEventListener( )
-### ✅ getElementById
+### ✅ getElementById( )
 
 ## ℹ️ In the US, phone numbers can be formatted in many ways. Here are some examples of valid formats for US phone numbers:
 ### ☎️ 1 555-555-5555
