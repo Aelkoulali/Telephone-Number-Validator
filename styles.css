@@ -44,7 +44,7 @@ h1 {
     height: 15px;
     border-radius: 50%;
     margin: 5px auto;
-    border: 1px solid var(--grey);
+    border: 2px solid var(--grey);
 }
 
 #user-input{
@@ -55,7 +55,7 @@ h1 {
     padding: 5px;
     font-size: 17px;
     font-weight: bold;
-    border: 1px solid var(--blue);
+    border: 2px solid var(--blue);
     border-radius: 8px;
 }
 
@@ -70,22 +70,20 @@ h1 {
 .phone-container {
     display: flex;
     flex-direction : column;
-    text-align: center;
-    align-items: center;
     border: 15px solid var(--black);
     border-radius: 15px;
     width: 300px;
     height: 550px;
     font-size: 17px;
     font-weight: bold;
-    
+    box-shadow: 5px 5px 5px #517EF5;   
 }
 
 .btn {
     background-color: var(--gold);
     padding: 5px;
     margin-top: 15px;
-    border: 1px solid var(--grey);
+    border: 2px solid var(--grey);
     border-radius : 8px;
     width: 125px;
     font-weight: bold;
