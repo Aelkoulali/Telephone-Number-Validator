@@ -1,4 +1,4 @@
-# 🗂️ Telephone Number Validator 📞☎️
+# 🗂️ Telephone Number Validator 📞
 ## ➡️ Key Concepts :
 ### ✅ JavaScript, HTML & CSS
 ### ✅ regex
