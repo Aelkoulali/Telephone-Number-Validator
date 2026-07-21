@@ -21,7 +21,7 @@ The app runs validation with addEventListener(), gets the input using getElement
 
 
 ## ▶️ How to Run
-1. Open `index.html` in your browser.
+- Open `index.html` in your browser.
 
 
 ## ℹ️ In the US, phone numbers can be formatted in many ways. Here are some examples of valid formats for US phone numbers:
